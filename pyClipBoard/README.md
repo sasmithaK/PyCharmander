@@ -7,10 +7,7 @@ A simple Python script that monitors your clipboard and logs copied content to a
 - Saves all logs to a local file
 
 ## 💾 Requirements
-pyperclip
-Install dependencies with:
-
-🚀 How to Use
+Install pyperclip
 
 `pip install pyperclip`
 
